@@ -1,0 +1,702 @@
+[
+ {
+   "Place": 1,
+   "Competitor": "Noah LYLES",
+   "DOB": "18 JUL 1997",
+   "Score": 1458,
+   "Event List": "100m"
+ },
+ {
+   "Place": 2,
+   "Competitor": "Christian COLEMAN",
+   "DOB": "06 MAR 1996",
+   "Score": 1448,
+   "Event List": "100m"
+ },
+ {
+   "Place": 3,
+   "Competitor": "Ferdinand OMANYALA",
+   "DOB": "02 JAN 1996",
+   "Score": 1418,
+   "Event List": "100m"
+ },
+ {
+   "Place": 4,
+   "Competitor": "Letsile TEBOGO",
+   "DOB": "07 JUN 2003",
+   "Score": 1404,
+   "Event List": "100m"
+ },
+ {
+   "Place": 5,
+   "Competitor": "Fred KERLEY",
+   "DOB": "07 MAY 1995",
+   "Score": 1397,
+   "Event List": "100m"
+ },
+ {
+   "Place": 6,
+   "Competitor": "Zharnel HUGHES",
+   "DOB": "13 JUL 1995",
+   "Score": 1395,
+   "Event List": "100m"
+ },
+ {
+   "Place": 7,
+   "Competitor": "Akani SIMBINE",
+   "DOB": "21 SEP 1993",
+   "Score": 1379,
+   "Event List": "100m"
+ },
+ {
+   "Place": 8,
+   "Competitor": "Oblique SEVILLE",
+   "DOB": "16 MAR 2001",
+   "Score": 1367,
+   "Event List": "100m"
+ },
+ {
+   "Place": 9,
+   "Competitor": "Ackeem BLAKE",
+   "DOB": "21 JAN 2002",
+   "Score": 1362,
+   "Event List": "100m"
+ },
+ {
+   "Place": 10,
+   "Competitor": "Cravont CHARLESTON",
+   "DOB": "02 JAN 1998",
+   "Score": 1347,
+   "Event List": "100m"
+ },
+ {
+   "Place": 11,
+   "Competitor": "Yohan BLAKE",
+   "DOB": "26 DEC 1989",
+   "Score": 1329,
+   "Event List": "100m"
+ },
+ {
+   "Place": 12,
+   "Competitor": "Kishane THOMPSON",
+   "DOB": "17 JUL 2001",
+   "Score": 1324,
+   "Event List": "100m"
+ },
+ {
+   "Place": 13,
+   "Competitor": "Marvin BRACY-WILLIAMS",
+   "DOB": "15 DEC 1993",
+   "Score": 1324,
+   "Event List": "100m"
+ },
+ {
+   "Place": 14,
+   "Competitor": "Lamont Marcell JACOBS",
+   "DOB": "26 SEP 1994",
+   "Score": 1321,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 15,
+   "Competitor": "Reece PRESCOD",
+   "DOB": "29 FEB 1996",
+   "Score": 1304,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 16,
+   "Competitor": "Ryiem FORDE",
+   "DOB": "23 MAY 2001",
+   "Score": 1300,
+   "Event List": "100m"
+ },
+ {
+   "Place": 17,
+   "Competitor": "Emmanuel ESEME",
+   "DOB": "17 AUG 1993",
+   "Score": 1296,
+   "Event List": "100m"
+ },
+ {
+   "Place": 18,
+   "Competitor": "Brandon CARNES",
+   "DOB": "06 MAR 1995",
+   "Score": 1296,
+   "Event List": "100m"
+ },
+ {
+   "Place": 19,
+   "Competitor": "Abdul Hakim SANI BROWN",
+   "DOB": "06 MAR 1999",
+   "Score": 1286,
+   "Event List": "100m"
+ },
+ {
+   "Place": 20,
+   "Competitor": "Trayvon BROMELL",
+   "DOB": "10 JUL 1995",
+   "Score": 1286,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 21,
+   "Competitor": "Issamade ASINGA",
+   "DOB": "29 DEC 2004",
+   "Score": 1284,
+   "Event List": "100m"
+ },
+ {
+   "Place": 22,
+   "Competitor": "Samuele CECCARELLI",
+   "DOB": "09 JAN 2000",
+   "Score": 1283,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 23,
+   "Competitor": "Rohan BROWNING",
+   "DOB": "31 DEC 1997",
+   "Score": 1276,
+   "Event List": "100m"
+ },
+ {
+   "Place": 24,
+   "Competitor": "Rohan WATSON",
+   "DOB": "29 APR 2002",
+   "Score": 1275,
+   "Event List": "100m"
+ },
+ {
+   "Place": 25,
+   "Competitor": "Emmanuel MATADI",
+   "DOB": "15 APR 1991",
+   "Score": 1271,
+   "Event List": "100m"
+ },
+ {
+   "Place": 26,
+   "Competitor": "Aaron BROWN",
+   "DOB": "27 MAY 1992",
+   "Score": 1261,
+   "Event List": "100m"
+ },
+ {
+   "Place": 27,
+   "Competitor": "Zhenye XIE",
+   "DOB": "17 AUG 1993",
+   "Score": 1260,
+   "Event List": "100m"
+ },
+ {
+   "Place": 28,
+   "Competitor": "Ronnie BAKER",
+   "DOB": "15 OCT 1993",
+   "Score": 1260,
+   "Event List": "100m"
+ },
+ {
+   "Place": 29,
+   "Competitor": "Jeremiah AZU",
+   "DOB": "15 MAY 2001",
+   "Score": 1258,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 30,
+   "Competitor": "Raphael BOUJU",
+   "DOB": "15 MAY 2002",
+   "Score": 1257,
+   "Event List": "100m"
+ },
+ {
+   "Place": 31,
+   "Competitor": "Kadrian GOLDSON",
+   "DOB": "08 NOV 1997",
+   "Score": 1256,
+   "Event List": "100m"
+ },
+ {
+   "Place": 32,
+   "Competitor": "Terrence JONES",
+   "DOB": "08 NOV 2002",
+   "Score": 1253,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 33,
+   "Competitor": "Arthur CISSÉ",
+   "DOB": "29 DEC 1996",
+   "Score": 1253,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 34,
+   "Competitor": "Henrik LARSSON",
+   "DOB": "30 SEP 1999",
+   "Score": 1251,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 35,
+   "Competitor": "Hiroki YANAGITA",
+   "DOB": "25 JUL 2003",
+   "Score": 1250,
+   "Event List": "100m"
+ },
+ {
+   "Place": 36,
+   "Competitor": "Ryuichiro SAKAI",
+   "DOB": "14 MAR 1998",
+   "Score": 1247,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 37,
+   "Competitor": "Joshua HARTMANN",
+   "DOB": "09 JUN 1999",
+   "Score": 1246,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 38,
+   "Competitor": "Erik CARDOSO",
+   "DOB": "03 MAR 2000",
+   "Score": 1245,
+   "Event List": "100m"
+ },
+ {
+   "Place": 39,
+   "Competitor": "Eugene AMO-DADZIE",
+   "DOB": "22 JUN 1992",
+   "Score": 1244,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 40,
+   "Competitor": "Ján VOLKO",
+   "DOB": "02 NOV 1996",
+   "Score": 1244,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 41,
+   "Competitor": "Shaun MASWANGANYI",
+   "DOB": "01 FEB 2001",
+   "Score": 1242,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 42,
+   "Competitor": "Usheoritse ITSEKIRI",
+   "DOB": "31 JAN 1998",
+   "Score": 1242,
+   "Event List": "100m"
+ },
+ {
+   "Place": 43,
+   "Competitor": "Courtney LINDSEY",
+   "DOB": "18 NOV 1998",
+   "Score": 1241,
+   "Event List": "100m"
+ },
+ {
+   "Place": 44,
+   "Competitor": "Dominik KOPEĆ",
+   "DOB": "05 MAR 1995",
+   "Score": 1241,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 45,
+   "Competitor": "Godson Oke OGHENEBRUME",
+   "DOB": "27 MAY 2003",
+   "Score": 1240,
+   "Event List": "100m"
+ },
+ {
+   "Place": 46,
+   "Competitor": "Benjamin AZAMATI",
+   "DOB": "14 JAN 1998",
+   "Score": 1239,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 47,
+   "Competitor": "Mouhamadou FALL",
+   "DOB": "25 FEB 1992",
+   "Score": 1239,
+   "Event List": "100m"
+ },
+ {
+   "Place": 48,
+   "Competitor": "Kyree KING",
+   "DOB": "09 JUL 1994",
+   "Score": 1237,
+   "Event List": "100m"
+ },
+ {
+   "Place": 49,
+   "Competitor": "Pjai AUSTIN",
+   "DOB": "19 SEP 2000",
+   "Score": 1236,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 50,
+   "Competitor": "Hassan TAFTIAN",
+   "DOB": "04 MAY 1993",
+   "Score": 1236,
+   "Event List": "100m"
+ },
+ {
+   "Place": 51,
+   "Competitor": "Paulo André CAMILO",
+   "DOB": "20 AUG 1998",
+   "Score": 1234,
+   "Event List": "100m"
+ },
+ {
+   "Place": 52,
+   "Competitor": "Kendal WILLIAMS",
+   "DOB": "23 SEP 1995",
+   "Score": 1231,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 53,
+   "Competitor": "Edward OSEI-NKETIA",
+   "DOB": "08 MAY 2001",
+   "Score": 1229,
+   "Event List": "100m"
+ },
+ {
+   "Place": 54,
+   "Competitor": "JT SMITH",
+   "DOB": "12 JAN 1998",
+   "Score": 1226,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 55,
+   "Competitor": "Felipe BARDI",
+   "DOB": "08 OCT 1998",
+   "Score": 1224,
+   "Event List": "100m"
+ },
+ {
+   "Place": 56,
+   "Competitor": "Seye OGUNLEWE",
+   "DOB": "30 AUG 1991",
+   "Score": 1224,
+   "Event List": "100m"
+ },
+ {
+   "Place": 57,
+   "Competitor": "Rikkoi BRATHWAITE",
+   "DOB": "13 FEB 1999",
+   "Score": 1221,
+   "Event List": "100m"
+ },
+ {
+   "Place": 58,
+   "Competitor": "Favour Oghene Tejiri ASHE",
+   "DOB": "28 APR 2002",
+   "Score": 1220,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 59,
+   "Competitor": "Cejhae GREENE",
+   "DOB": "06 OCT 1995",
+   "Score": 1219,
+   "Event List": "100m"
+ },
+ {
+   "Place": 60,
+   "Competitor": "Tiaan WHELPTON",
+   "DOB": "29 MAR 2000",
+   "Score": 1216,
+   "Event List": "100m"
+ },
+ {
+   "Place": 61,
+   "Competitor": "Emanuel ARCHIBALD",
+   "DOB": "09 SEP 1994",
+   "Score": 1216,
+   "Event List": "100m"
+ },
+ {
+   "Place": 62,
+   "Competitor": "Ronal LONGA",
+   "DOB": "30 JUN 2004",
+   "Score": 1215,
+   "Event List": "100m"
+ },
+ {
+   "Place": 63,
+   "Competitor": "Da'marcus FLEMING",
+   "DOB": "21 DEC 2001",
+   "Score": 1214,
+   "Event List": "100m"
+ },
+ {
+   "Place": 64,
+   "Competitor": "Udodi Chudi ONWUZURIKE",
+   "DOB": "29 JAN 2003",
+   "Score": 1212,
+   "Event List": "100m"
+ },
+ {
+   "Place": 65,
+   "Competitor": "Micah WILLIAMS",
+   "DOB": "12 NOV 2001",
+   "Score": 1212,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 66,
+   "Competitor": "Femi OGUNODE",
+   "DOB": "15 MAY 1991",
+   "Score": 1211,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 67,
+   "Competitor": "Markus FUCHS",
+   "DOB": "14 NOV 1995",
+   "Score": 1210,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 68,
+   "Competitor": "Micheal CAMPBELL",
+   "DOB": "29 NOV 1996",
+   "Score": 1205,
+   "Event List": "100m"
+ },
+ {
+   "Place": 69,
+   "Competitor": "José GONZÁLEZ",
+   "DOB": "14 MAY 1995",
+   "Score": 1205,
+   "Event List": "100m"
+ },
+ {
+   "Place": 70,
+   "Competitor": "Jake DORAN",
+   "DOB": "18 JUL 2000",
+   "Score": 1204,
+   "Event List": "100m"
+ },
+ {
+   "Place": 71,
+   "Competitor": "Julian WAGNER",
+   "DOB": "18 MAR 1998",
+   "Score": 1203,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 72,
+   "Competitor": "Jerome BLAKE",
+   "DOB": "18 AUG 1995",
+   "Score": 1202,
+   "Event List": "100m"
+ },
+ {
+   "Place": 73,
+   "Competitor": "Rodrigo DO NASCIMENTO",
+   "DOB": "26 SEP 1994",
+   "Score": 1202,
+   "Event List": "100m"
+ },
+ {
+   "Place": 74,
+   "Competitor": "Terrance LAIRD",
+   "DOB": "12 OCT 1998",
+   "Score": 1200,
+   "Event List": "100m"
+ },
+ {
+   "Place": 75,
+   "Competitor": "Yuki KOIKE",
+   "DOB": "13 MAY 1995",
+   "Score": 1200,
+   "Event List": "100m"
+ },
+ {
+   "Place": 76,
+   "Competitor": "Cravon GILLESPIE",
+   "DOB": "31 JUL 1996",
+   "Score": 1200,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 77,
+   "Competitor": "Brendon RODNEY",
+   "DOB": "09 APR 1992",
+   "Score": 1198,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 78,
+   "Competitor": "Abdullah Abkar MOHAMMED",
+   "DOB": "01 JAN 1997",
+   "Score": 1197,
+   "Event List": "100m"
+ },
+ {
+   "Place": 79,
+   "Competitor": "Muhd Azeem FAHMI",
+   "DOB": "29 APR 2004",
+   "Score": 1197,
+   "Event List": "100m"
+ },
+ {
+   "Place": 80,
+   "Competitor": "Alaba Olukunle AKINTOLA",
+   "DOB": "14 SEP 2001",
+   "Score": 1197,
+   "Event List": "100m"
+ },
+ {
+   "Place": 81,
+   "Competitor": "Ebrahima CAMARA",
+   "DOB": "18 SEP 1996",
+   "Score": 1196,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 82,
+   "Competitor": "Cole BECK",
+   "DOB": "05 MAR 1999",
+   "Score": 1196,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 83,
+   "Competitor": "Israel OLATUNDE",
+   "DOB": "29 MAY 2002",
+   "Score": 1195,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 84,
+   "Competitor": "Duan ASEMOTA",
+   "DOB": "29 AUG 1996",
+   "Score": 1194,
+   "Event List": "100m"
+ },
+ {
+   "Place": 85,
+   "Competitor": "Shuhei TADA",
+   "DOB": "24 JUN 1996",
+   "Score": 1194,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 86,
+   "Competitor": "Travis WILLIAMS",
+   "DOB": "11 MAR 2003",
+   "Score": 1193,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 87,
+   "Competitor": "Pablo MATEO",
+   "DOB": "01 FEB 2001",
+   "Score": 1193,
+   "Event List": "100m"
+ },
+ {
+   "Place": 88,
+   "Competitor": "James DADZIE",
+   "DOB": "17 MAY 2001",
+   "Score": 1192,
+   "Event List": "100m"
+ },
+ {
+   "Place": 89,
+   "Competitor": "Benjamin RICHARDSON",
+   "DOB": "19 DEC 2003",
+   "Score": 1192,
+   "Event List": "100m"
+ },
+ {
+   "Place": 90,
+   "Competitor": "Guanfeng CHEN",
+   "DOB": "05 FEB 2000",
+   "Score": 1192,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 91,
+   "Competitor": "Chris ROYSTER",
+   "DOB": "24 JAN 1992",
+   "Score": 1192,
+   "Event List": "100m"
+ },
+ {
+   "Place": 92,
+   "Competitor": "Karl Erik NAZAROV",
+   "DOB": "17 MAR 1999",
+   "Score": 1192,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 93,
+   "Competitor": "Taymir BURNET",
+   "DOB": "01 OCT 1992",
+   "Score": 1188,
+   "Event List": "100m"
+ },
+ {
+   "Place": 94,
+   "Competitor": "Romell GLAVE",
+   "DOB": "11 NOV 1999",
+   "Score": 1186,
+   "Event List": "100m"
+ },
+ {
+   "Place": 95,
+   "Competitor": "Oliver BROMBY",
+   "DOB": "30 MAR 1998",
+   "Score": 1184,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 96,
+   "Competitor": "Ismael KONE",
+   "DOB": "06 NOV 2000",
+   "Score": 1184,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 97,
+   "Competitor": "Yannick WOLF",
+   "DOB": "12 MAY 2000",
+   "Score": 1183,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 98,
+   "Competitor": "Samuli SAMUELSSON",
+   "DOB": "23 JUN 1995",
+   "Score": 1183,
+   "Event List": "100m [60m]"
+ },
+ {
+   "Place": 99,
+   "Competitor": "Amir WILLIS",
+   "DOB": "09 SEP 2000",
+   "Score": 1183,
+   "Event List": "100m"
+ },
+ {
+   "Place": 100,
+   "Competitor": "Miles LEWIS",
+   "DOB": "11 APR 1991",
+   "Score": 1181,
+   "Event List": "100m [60m]"
+ }
+]

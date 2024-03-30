@@ -1,33 +1,15 @@
 'use client'
 
-import dynamic from 'next/dynamic'
-import React, { Suspense, useEffect, useRef } from 'react'
-import gsap from 'gsap/dist/gsap'
-import ScrollTrigger from 'gsap/dist/ScrollTrigger'
+import React, { useEffect, useRef } from 'react'
+import gsap from 'gsap'
+import ScrollTrigger from 'gsap/ScrollTrigger'
 import elementResizeDetectorMaker from 'element-resize-detector'
+import { Equation, defaultErrorHandler } from 'react-equation'
+import StopWatch from '@/components/canvas/StopWatch'
 
 gsap.registerPlugin(ScrollTrigger)
-const Logo = dynamic(() => import('@/components/canvas/Examples').then((mod) => mod.Logo), { ssr: false })
-const Dog = dynamic(() => import('@/components/canvas/Examples').then((mod) => mod.Dog), { ssr: false })
-const Duck = dynamic(() => import('@/components/canvas/Examples').then((mod) => mod.Duck), { ssr: false })
-const View = dynamic(() => import('@/components/canvas/View').then((mod) => mod.View), {
-  ssr: false,
-  loading: () => (
-    <div className='flex h-96 w-full flex-col items-center justify-center'>
-      <svg className='-ml-1 mr-3 size-5 animate-spin text-black' fill='none' viewBox='0 0 24 24'>
-        <circle className='opacity-25' cx='12' cy='12' r='10' stroke='currentColor' strokeWidth='4' />
-        <path
-          className='opacity-75'
-          fill='currentColor'
-          d='M4 12a8 8 0 0 1 8-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 0 1 4 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z'
-        />
-      </svg>
-    </div>
-  ),
-})
-const Common = dynamic(() => import('@/components/canvas/View').then((mod) => mod.Common), { ssr: false })
 
-export default function Page() {
+const Page = () => {
   const viewportRef = useRef(null)
   const contentRef = useRef(null)
 
@@ -144,25 +126,9 @@ export default function Page() {
       onRefresh: killScrub,
     })
   }, [])
+
   return (
     <>
-      <div className='mx-auto flex w-full flex-col flex-wrap items-center md:flex-row  lg:w-4/5'>
-        {/* jumbo */}
-        <div className='flex w-full flex-col items-start justify-center p-12 text-center md:w-2/5 md:text-left'>
-          <p className='w-full uppercase'>Next + React Three Fiber</p>
-          <h1 className='my-4 text-5xl font-bold leading-tight'>Next 3D Starter</h1>
-          <p className='mb-8 text-2xl leading-normal'>A minimalist starter for React, React-three-fiber and Threejs.</p>
-        </div>
-
-        <div className='w-full text-center md:w-3/5'>
-          <View className='flex h-96 w-full flex-col items-center justify-center'>
-            <Suspense fallback={null}>
-              <Logo route='/blob' scale={0.6} position={[0, 0, 0]} />
-              <Common />
-            </Suspense>
-          </View>
-        </div>
-      </div>
       <div
         className='fixed flex h-full w-1/2 select-none items-center justify-center font-light text-white'
         style={{ zIndex: 2, top: '0%' }}
@@ -179,19 +145,13 @@ export default function Page() {
         >
           {/* NAME */}
           <div className='absolute bottom-12 left-16 z-10 opacity-100' style={{ opacity: 1 }}>
-            <p className='my-0 font-sans text-4xl leading-6 tracking-wide'>Jenna Sinclair</p>
+            <p className='my-0 font-sans text-4xl leading-6 tracking-wide'>Consistency of Error</p>
             <div className='mt-2 h-px w-16 bg-white' />
           </div>
           {/* /NAME */}
           <div className='absolute left-0 top-0 size-full overflow-hidden'>
-            <div
-              className='absolute left-0 top-0 size-full bg-cover bg-no-repeat'
-              style={{
-                backgroundImage: 'url("assets/images/person.jpg")',
-                backgroundPosition: 'center center',
-              }}
-            />
-            <canvas
+            <div className='absolute left-0 top-0 size-full bg-cover bg-no-repeat' />
+            <StopWatch
               width={998}
               height={1228}
               style={{ display: 'block', width: 499, height: 614, zIndex: 3 }}
@@ -236,13 +196,13 @@ export default function Page() {
             {/* CONTAINER */}
             <div className='block w-full'>
               <p className='mb-16 mt-0 font-sans text-xl font-bold leading-6' style={{ letterSpacing: '2.24px' }}>
-                INTRODUCTION
+                SPACE AND TIME
               </p>
               <h1
                 className='mb-20 ml-12 mt-0 font-sans font-extralight leading-4 tracking-normal'
                 style={{ fontSize: 160 }}
               >
-                Im a Creative Developer &amp; Technology Expert
+                The effects of Temperature, Humidity and Pressure &amp; On Short Sprint Race Outcomes
               </h1>
               <div className='h-px w-16 bg-white' />
             </div>
@@ -279,10 +239,9 @@ export default function Page() {
                 className='my-0 font-sans text-5xl leading-6 tracking-normal text-neutral-500 opacity-100'
                 style={{ opacity: 0, transform: 'translate(0px, 0px)' }}
               >
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-                to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-                typesetting.
+                Lorem Ipsum is simply dummy text of the printing and typesetting since the 1500s, when an unknown
+                printer took a galley of type and scrambled it to make a type specimen book. It has survived not only
+                five centuries, but also the leap into electronic typesetting.
               </p>
             </div>
             {/* /CONTAINER */}
@@ -317,7 +276,7 @@ export default function Page() {
                 style={{ opacity: 0, transform: 'translate(0px, 150px)' }}
               >
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industrys standard dummy text.
+                standard dummy text.
               </p>
               {/* CARD GRID */}
               <div className='flex flex-wrap opacity-0' style={{ opacity: 0, transform: 'translate(0px, 150px)' }}>
@@ -944,8 +903,9 @@ export default function Page() {
                       <h3 className='mb-12 mt-0 font-sans text-6xl leading-4 tracking-normal'>Surface Experience</h3>
                       <div className='mb-12 h-px w-16 bg-white' />
                       <p className='my-0 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
-                        We chose Lenoox because its the perfect combination of convenience and quality. Team takes care
-                        of getting us high-quality images quickly and more than build jacket efficiently
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+                        scrambled it to make a type specimen book.
                       </p>
                     </div>
                     {/* /INFO CONTENT */}
@@ -1037,8 +997,8 @@ export default function Page() {
                       <div className='mb-12 h-px w-16 bg-white' />
                       <p className='my-0 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                        type and scrambled it to make a type specimen book.
+                        the standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+                        scrambled it to make a type specimen book.
                       </p>
                     </div>
                     {/* /INFO CONTENT */}
@@ -1324,7 +1284,7 @@ export default function Page() {
                     >
                       <p className='relative my-0 bg-neutral-900 px-32 py-24 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
                         We chose Lenoox because its the perfect combination of convenience and quality. Team takes care
-                        of getting us high-quality images quickly and more than build jacket efficiently
+                        of getting us high-quality images quickly and more than build jacket efficiently.
                       </p>
                       <p className='mb-0 mt-12 font-sans text-5xl leading-5 tracking-normal'>Elena Clouse</p>
                       <p className='my-0 font-sans text-5xl leading-5 tracking-normal text-neutral-500'>
@@ -1347,8 +1307,8 @@ export default function Page() {
                       }}
                     >
                       <p className='relative my-0 bg-neutral-900 px-32 py-24 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
-                        We chose Lenoox because the perfect combination of convenience and quality. Team takes care of
-                        getting us high-quality images quickly and more than build jacket efficiently.
+                        We chose Lenoox because its the perfect combination of convenience and quality. Team takes care
+                        of getting us high-quality images quickly and more than build jacket efficiently.
                       </p>
                       <p className='mb-0 mt-12 font-sans text-5xl leading-5 tracking-normal'>Brandon Hadid</p>
                       <p className='my-0 font-sans text-5xl leading-5 tracking-normal text-neutral-500'>
@@ -1371,8 +1331,8 @@ export default function Page() {
                       }}
                     >
                       <p className='relative my-0 bg-neutral-900 px-32 py-24 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
-                        We chose Lenoox because the perfect combination of convenience and quality. Team takes care of
-                        getting us high-quality images quickly and more than build jacket efficiently.
+                        We chose Lenoox because its the perfect combination of convenience and quality. Team takes care
+                        of getting us high-quality images quickly and more than build jacket efficiently.
                       </p>
                       <p className='mb-0 mt-12 font-sans text-5xl leading-5 tracking-normal'>John Miller</p>
                       <p className='my-0 font-sans text-5xl leading-5 tracking-normal text-neutral-500'>
@@ -1687,7 +1647,7 @@ export default function Page() {
                       style={{ listStyle: 'outside none none' }}
                     >
                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                      the industrys standard since the 1500s.
+                      the standard since the 1500s.
                     </p>
                   </div>
                 </li>
@@ -1726,7 +1686,7 @@ export default function Page() {
                       style={{ listStyle: 'outside none none' }}
                     >
                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                      the industrys standard since the 1500s.
+                      the standard since the 1500s.
                     </p>
                   </div>
                 </li>
@@ -1804,7 +1764,7 @@ export default function Page() {
                       style={{ listStyle: 'outside none none' }}
                     >
                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                      the industrys standard since the 1500s.
+                      the standard since the 1500s.
                     </p>
                   </div>
                 </li>
@@ -2062,40 +2022,8 @@ export default function Page() {
         </div>
         {/* /SECTION CONTAINER */}
       </div>
-
-      <div className='mx-auto flex w-full flex-col flex-wrap items-center p-12 md:flex-row  lg:w-4/5'>
-        {/* first row */}
-        <div className='relative h-48 w-full py-6 sm:w-1/2 md:my-12 md:mb-40'>
-          <h2 className='mb-3 text-3xl font-bold leading-none text-gray-800'>Events are propagated</h2>
-          <p className='mb-8 text-gray-600'>Drag, scroll, pinch, and rotate the canvas to explore the 3D scene.</p>
-        </div>
-        <div className='relative my-12 h-48 w-full py-6 sm:w-1/2 md:mb-40'>
-          <View orbit className='relative h-full  sm:h-48 sm:w-full'>
-            <Suspense fallback={null}>
-              <Dog scale={2} position={[0, -1.6, 0]} rotation={[0.0, -0.3, 0]} />
-              <Common color={'lightpink'} />
-            </Suspense>
-          </View>
-        </div>
-        {/* second row */}
-        <div className='relative my-12 h-48 w-full py-6 sm:w-1/2 md:mb-40'>
-          <View orbit className='relative h-full animate-bounce sm:h-48 sm:w-full'>
-            <Suspense fallback={null}>
-              <Duck route='/blob' scale={2} position={[0, -1.6, 0]} />
-              <Common color={'lightblue'} />
-            </Suspense>
-          </View>
-        </div>
-        <div className='w-full p-6 sm:w-1/2'>
-          <h2 className='mb-3 text-3xl font-bold leading-none text-gray-800'>Dom and 3D are synchronized</h2>
-          <p className='mb-8 text-gray-600'>
-            3D Divs are renderer through the View component. It uses gl.scissor to cut the viewport into segments. You
-            tie a view to a tracking div which then controls the position and bounds of the viewport. This allows you to
-            have multiple views with a single, performant canvas. These views will follow their tracking elements,
-            scroll along, resize, etc.
-          </p>
-        </div>
-      </div>
     </>
   )
 }
+
+export default Page

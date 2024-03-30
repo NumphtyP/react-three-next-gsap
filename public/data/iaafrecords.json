@@ -1,0 +1,1002 @@
+[
+ {
+   "Rank": 1,
+   "Mark": 9.58,
+   "WIND": 0.9,
+   "Competitor": "Usain BOLT",
+   "DOB": "21 AUG 1986",
+   "Venue": "Olympiastadion, Berlin (GER)",
+   "Date": "16 AUG 2009",
+   "Results Score": 1356
+ },
+ {
+   "Rank": 2,
+   "Mark": 9.69,
+   "WIND": 2,
+   "Competitor": "Tyson GAY",
+   "DOB": "09 AUG 1982",
+   "Venue": "Shanghai (CHN)",
+   "Date": "20 SEP 2009",
+   "Results Score": 1316
+ },
+ {
+   "Rank": 2,
+   "Mark": 9.69,
+   "WIND": -0.1,
+   "Competitor": "Yohan BLAKE",
+   "DOB": "26 DEC 1989",
+   "Venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "Date": "23 AUG 2012",
+   "Results Score": 1316
+ },
+ {
+   "Rank": 4,
+   "Mark": 9.72,
+   "WIND": 0.2,
+   "Competitor": "Asafa POWELL",
+   "DOB": "23 NOV 1982",
+   "Venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "Date": "02 SEP 2008",
+   "Results Score": 1305
+ },
+ {
+   "Rank": 5,
+   "Mark": 9.74,
+   "WIND": 0.9,
+   "Competitor": "Justin GATLIN",
+   "DOB": "10 FEB 1982",
+   "Venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+   "Date": "15 MAY 2015",
+   "Results Score": 1298
+ },
+ {
+   "Rank": 6,
+   "Mark": 9.76,
+   "WIND": 0.6,
+   "Competitor": "Christian COLEMAN",
+   "DOB": "06 MAR 1996",
+   "Venue": "Khalifa International Stadium, Doha (QAT)",
+   "Date": "28 SEP 2019",
+   "Results Score": 1291
+ },
+ {
+   "Rank": 6,
+   "Mark": 9.76,
+   "WIND": 1.2,
+   "Competitor": "Trayvon BROMELL",
+   "DOB": "10 JUL 1995",
+   "Venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "Date": "18 SEP 2021",
+   "Results Score": 1291
+ },
+ {
+   "Rank": 6,
+   "Mark": 9.76,
+   "WIND": 1.4,
+   "Competitor": "Fred KERLEY",
+   "DOB": "07 MAY 1995",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "24 JUN 2022",
+   "Results Score": 1291
+ },
+ {
+   "Rank": 9,
+   "Mark": 9.77,
+   "WIND": 1.2,
+   "Competitor": "Ferdinand OMANYALA",
+   "DOB": "02 JAN 1996",
+   "Venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "Date": "18 SEP 2021",
+   "Results Score": 1287
+ },
+ {
+   "Rank": 10,
+   "Mark": 9.78,
+   "WIND": 0.9,
+   "Competitor": "Nesta CARTER",
+   "DOB": "11 OCT 1985",
+   "Venue": "Stadio Guidobaldi, Rieti (ITA)",
+   "Date": "29 AUG 2010",
+   "Results Score": 1283
+ },
+ {
+   "Rank": 11,
+   "Mark": 9.79,
+   "WIND": 0.1,
+   "Competitor": "Maurice GREENE",
+   "DOB": "23 JUL 1974",
+   "Venue": "Athina (GRE)",
+   "Date": "16 JUN 1999",
+   "Results Score": 1280
+ },
+ {
+   "Rank": 12,
+   "Mark": 9.8,
+   "WIND": 1.3,
+   "Competitor": "Steve MULLINGS",
+   "DOB": "29 NOV 1982",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "04 JUN 2011",
+   "Results Score": 1276
+ },
+ {
+   "Rank": 12,
+   "Mark": 9.8,
+   "WIND": 0.1,
+   "Competitor": "Lamont Marcell JACOBS",
+   "DOB": "26 SEP 1994",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "01 AUG 2021",
+   "Results Score": 1276
+ },
+ {
+   "Rank": 14,
+   "Mark": 9.82,
+   "WIND": 1.7,
+   "Competitor": "Richard THOMPSON",
+   "DOB": "07 JUN 1985",
+   "Venue": "Port-of-Spain (TTO)",
+   "Date": "21 JUN 2014",
+   "Results Score": 1269
+ },
+ {
+   "Rank": 15,
+   "Mark": 9.83,
+   "WIND": 0.9,
+   "Competitor": "Bingtian SU",
+   "DOB": "29 AUG 1989",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "01 AUG 2021",
+   "Results Score": 1266
+ },
+ {
+   "Rank": 15,
+   "Mark": 9.83,
+   "WIND": 0.9,
+   "Competitor": "Ronnie BAKER",
+   "DOB": "15 OCT 1993",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "01 AUG 2021",
+   "Results Score": 1266
+ },
+ {
+   "Rank": 15,
+   "Mark": 9.83,
+   "WIND": 1.3,
+   "Competitor": "Zharnel HUGHES",
+   "DOB": "13 JUL 1995",
+   "Venue": "Icahn Stadium, New York, NY (USA)",
+   "Date": "24 JUN 2023",
+   "Results Score": 1266
+ },
+ {
+   "Rank": 15,
+   "Mark": 9.83,
+   "WIND": 0,
+   "Competitor": "Noah LYLES",
+   "DOB": "18 JUL 1997",
+   "Venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+   "Date": "20 AUG 2023",
+   "Results Score": 1266
+ },
+ {
+   "Rank": 19,
+   "Mark": 9.84,
+   "WIND": 0.7,
+   "Competitor": "Donovan BAILEY",
+   "DOB": "16 DEC 1967",
+   "Venue": "Olympic Stadium, Atlanta, GA (USA)",
+   "Date": "27 JUL 1996",
+   "Results Score": 1262
+ },
+ {
+   "Rank": 19,
+   "Mark": 9.84,
+   "WIND": 0.2,
+   "Competitor": "Bruny SURIN",
+   "DOB": "12 JUL 1967",
+   "Venue": "La Cartuja, Sevilla (ESP)",
+   "Date": "22 AUG 1999",
+   "Results Score": 1262
+ },
+ {
+   "Rank": 19,
+   "Mark": 9.84,
+   "WIND": 1.2,
+   "Competitor": "Akani SIMBINE",
+   "DOB": "21 SEP 1993",
+   "Venue": "Bregyó Athletic Center, Székesfehérvár (HUN)",
+   "Date": "06 JUL 2021",
+   "Results Score": 1262
+ },
+ {
+   "Rank": 22,
+   "Mark": 9.85,
+   "WIND": 1.2,
+   "Competitor": "Leroy BURRELL",
+   "DOB": "21 FEB 1967",
+   "Venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "Date": "06 JUL 1994",
+   "Results Score": 1259
+ },
+ {
+   "Rank": 22,
+   "Mark": 9.85,
+   "WIND": 1.7,
+   "Competitor": "Olusoji Adetokunbo FASUBA",
+   "DOB": "09 JUL 1984",
+   "Venue": "Doha (QAT)",
+   "Date": "12 MAY 2006",
+   "Results Score": 1259
+ },
+ {
+   "Rank": 22,
+   "Mark": 9.85,
+   "WIND": 1.3,
+   "Competitor": "Michael RODGERS",
+   "DOB": "24 APR 1985",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "04 JUN 2011",
+   "Results Score": 1259
+ },
+ {
+   "Rank": 22,
+   "Mark": 9.85,
+   "WIND": 1.5,
+   "Competitor": "Marvin BRACY",
+   "DOB": "15 DEC 1993",
+   "Venue": "Ansin Sports Complex, Miramar, FL (USA)",
+   "Date": "05 JUN 2021",
+   "Results Score": 1259
+ },
+ {
+   "Rank": 22,
+   "Mark": 9.85,
+   "WIND": 0.4,
+   "Competitor": "Kishane THOMPSON",
+   "DOB": "17 JUL 2001",
+   "Venue": "Egret Stadium, Xiamen (CHN)",
+   "Date": "02 SEP 2023",
+   "Results Score": 1259
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 1.2,
+   "Competitor": "Carl LEWIS",
+   "DOB": "01 JUL 1961",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "25 AUG 1991",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": -0.4,
+   "Competitor": "Frank FREDERICKS",
+   "DOB": "02 OCT 1967",
+   "Venue": "Lausanne (SUI)",
+   "Date": "03 JUL 1996",
+   "Results Score": 1257
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 1.8,
+   "Competitor": "Ato BOLDON",
+   "DOB": "30 DEC 1973",
+   "Venue": "Walnut, CA (USA)",
+   "Date": "19 APR 1998",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 0.6,
+   "Competitor": "Francis OBIKWELU",
+   "DOB": "22 NOV 1978",
+   "Venue": "Olympic Stadium, Athina (GRE)",
+   "Date": "22 AUG 2004",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 1.4,
+   "Competitor": "Keston BLEDMAN",
+   "DOB": "08 MAR 1988",
+   "Venue": "Port-of-Spain (TTO)",
+   "Date": "23 JUN 2012",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 1.3,
+   "Competitor": "Jimmy VICAUT",
+   "DOB": "27 FEB 1992",
+   "Venue": "Paris (FRA)",
+   "Date": "04 JUL 2015",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 0.8,
+   "Competitor": "Divine ODUDURU",
+   "DOB": "07 OCT 1996",
+   "Venue": "Austin, TX (USA)",
+   "Date": "07 JUN 2019",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 1.6,
+   "Competitor": "Michael NORMAN",
+   "DOB": "03 DEC 1997",
+   "Venue": "AP Ranch, Fort Worth, TX (USA)",
+   "Date": "20 JUL 2020",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 0.2,
+   "Competitor": "Oblique SEVILLE",
+   "DOB": "16 MAR 2001",
+   "Venue": "National Stadium, Kingston (JAM)",
+   "Date": "21 MAY 2022",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 27,
+   "Mark": 9.86,
+   "WIND": 0.7,
+   "Competitor": "Micah WILLIAMS",
+   "DOB": "12 NOV 2001",
+   "Venue": "John McDonnell Field, Fayetteville, AR (USA)",
+   "Date": "27 MAY 2022",
+   "Results Score": 1255
+ },
+ {
+   "Rank": 37,
+   "Mark": 9.87,
+   "WIND": 0.3,
+   "Competitor": "Linford CHRISTIE",
+   "DOB": "02 APR 1960",
+   "Venue": "Gottlieb-Daimler Stadion, Stuttgart (GER)",
+   "Date": "15 AUG 1993",
+   "Results Score": 1252
+ },
+ {
+   "Rank": 37,
+   "Mark": 9.87,
+   "WIND": -0.2,
+   "Competitor": "Obadele THOMPSON",
+   "DOB": "30 MAR 1976",
+   "Venue": "SGJ, Johannesburg (RSA)",
+   "Date": "11 SEP 1998",
+   "Results Score": 1253
+ },
+ {
+   "Rank": 39,
+   "Mark": 9.88,
+   "WIND": 1.8,
+   "Competitor": "Shawn CRAWFORD",
+   "DOB": "14 JAN 1978",
+   "Venue": "Eugene, OR (USA)",
+   "Date": "19 JUN 2004",
+   "Results Score": 1248
+ },
+ {
+   "Rank": 39,
+   "Mark": 9.88,
+   "WIND": 1,
+   "Competitor": "Walter DIX",
+   "DOB": "31 JAN 1986",
+   "Venue": "Luzern (SUI)",
+   "Date": "08 AUG 2010",
+   "Results Score": 1248
+ },
+ {
+   "Rank": 39,
+   "Mark": 9.88,
+   "WIND": 0.9,
+   "Competitor": "Ryan BAILEY",
+   "DOB": "13 APR 1989",
+   "Venue": "Stadio Guidobaldi, Rieti (ITA)",
+   "Date": "29 AUG 2010",
+   "Results Score": 1248
+ },
+ {
+   "Rank": 39,
+   "Mark": 9.88,
+   "WIND": 1,
+   "Competitor": "Michael FRATER",
+   "DOB": "06 OCT 1982",
+   "Venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "Date": "30 JUN 2011",
+   "Results Score": 1248
+ },
+ {
+   "Rank": 39,
+   "Mark": 9.88,
+   "WIND": 0,
+   "Competitor": "Letsile TEBOGO",
+   "DOB": "07 JUN 2003",
+   "Venue": "Nemzeti Atlétikai Központ, Budapest (HUN)",
+   "Date": "20 AUG 2023",
+   "Results Score": 1248
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1.6,
+   "Competitor": "Travis PADGETT",
+   "DOB": "13 DEC 1986",
+   "Venue": "Eugene, OR (USA)",
+   "Date": "28 JUN 2008",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1.6,
+   "Competitor": "Darvis PATTON",
+   "DOB": "04 DEC 1977",
+   "Venue": "Eugene, OR (USA)",
+   "Date": "28 JUN 2008",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1.3,
+   "Competitor": "Ngonidzashe MAKUSHA",
+   "DOB": "11 MAR 1987",
+   "Venue": "Des Moines, IA (USA)",
+   "Date": "10 JUN 2011",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 0.2,
+   "Competitor": "Isiah YOUNG",
+   "DOB": "05 JAN 1990",
+   "Venue": "National Training Center, Clermont, FL (USA)",
+   "Date": "30 MAY 2021",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 0.8,
+   "Competitor": "Kenneth BEDNAREK",
+   "DOB": "14 OCT 1998",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "20 JUN 2021",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 0.1,
+   "Competitor": "Andre DE GRASSE",
+   "DOB": "10 NOV 1994",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "01 AUG 2021",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1,
+   "Competitor": "Ackeem BLAKE",
+   "DOB": "21 JAN 2002",
+   "Venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "Date": "27 MAY 2023",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1.3,
+   "Competitor": "Pjai AUSTIN",
+   "DOB": "19 SEP 2000",
+   "Venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+   "Date": "07 JUN 2023",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 1.8,
+   "Competitor": "Courtney LINDSEY",
+   "DOB": "18 NOV 1998",
+   "Venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+   "Date": "09 JUN 2023",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 44,
+   "Mark": 9.89,
+   "WIND": 0.8,
+   "Competitor": "Issamade ASINGA",
+   "DOB": "29 DEC 2004",
+   "Venue": "COTP Stadium, São Paulo (BRA)",
+   "Date": "28 JUL 2023",
+   "Results Score": 1245
+ },
+ {
+   "Rank": 54,
+   "Mark": 9.9,
+   "WIND": 0.4,
+   "Competitor": "Nickel ASHMEADE",
+   "DOB": "07 APR 1990",
+   "Venue": "Luzhniki Stadion, Moskva (RUS)",
+   "Date": "11 AUG 2013",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 54,
+   "Mark": 9.9,
+   "WIND": 2,
+   "Competitor": "Benjamin AZAMATI",
+   "DOB": "14 JAN 1998",
+   "Venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+   "Date": "25 MAR 2022",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 54,
+   "Mark": 9.9,
+   "WIND": 1.8,
+   "Competitor": "Elijah HALL",
+   "DOB": "22 AUG 1994",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "24 JUN 2022",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 54,
+   "Mark": 9.9,
+   "WIND": 1.8,
+   "Competitor": "Godson Oke OGHENEBRUME",
+   "DOB": "27 MAY 2003",
+   "Venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+   "Date": "09 JUN 2023",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 54,
+   "Mark": 9.9,
+   "WIND": 0.9,
+   "Competitor": "Cravont CHARLESTON",
+   "DOB": "02 JAN 1998",
+   "Venue": "Kuortaneen keskusurheilukenttä, Kuortane (FIN)",
+   "Date": "17 JUN 2023",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1.2,
+   "Competitor": "Dennis MITCHELL",
+   "DOB": "20 FEB 1966",
+   "Venue": "National Stadium, Tokyo (JPN)",
+   "Date": "25 AUG 1991",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 0.9,
+   "Competitor": "Leonard SCOTT",
+   "DOB": "19 JAN 1980",
+   "Venue": "Gottlieb-Daimler Stadion, Stuttgart (GER)",
+   "Date": "09 SEP 2006",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": -0.5,
+   "Competitor": "Derrick ATKINS",
+   "DOB": "05 JAN 1984",
+   "Venue": "Yanmar Stadium Nagai, Osaka (JPN)",
+   "Date": "26 AUG 2007",
+   "Results Score": 1241
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": -0.2,
+   "Competitor": "Daniel BAILEY",
+   "DOB": "09 SEP 1986",
+   "Venue": "Paris-St-Denis (FRA)",
+   "Date": "17 JUL 2009",
+   "Results Score": 1239
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 0.7,
+   "Competitor": "Churandy MARTINA",
+   "DOB": "03 JUL 1984",
+   "Venue": "Olympic Stadium, London (GBR)",
+   "Date": "05 AUG 2012",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1.1,
+   "Competitor": "James DASAOLU",
+   "DOB": "05 SEP 1987",
+   "Venue": "Birmingham (GBR)",
+   "Date": "13 JUL 2013",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1.8,
+   "Competitor": "Femi OGUNODE",
+   "DOB": "15 MAY 1991",
+   "Venue": "Wuhan (CHN)",
+   "Date": "04 JUN 2015",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1,
+   "Competitor": "Julian FORTE",
+   "DOB": "07 JAN 1993",
+   "Venue": "Olympiastadion, Berlin (GER)",
+   "Date": "27 AUG 2017",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1,
+   "Competitor": "Terrence JONES",
+   "DOB": "08 NOV 2002",
+   "Venue": "Percy Beard Track, Gainesville, FL (USA)",
+   "Date": "15 APR 2023",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1.8,
+   "Competitor": "Shaun MASWANGANYI",
+   "DOB": "01 FEB 2001",
+   "Venue": "Mike A. Myers Stadium, Austin, TX (USA)",
+   "Date": "09 JUN 2023",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 59,
+   "Mark": 9.91,
+   "WIND": 1.1,
+   "Competitor": "Rohan WATSON",
+   "DOB": "29 APR 2002",
+   "Venue": "National Stadium, Kingston (JAM)",
+   "Date": "07 JUL 2023",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 0.3,
+   "Competitor": "Andre CASON",
+   "DOB": "20 JAN 1969",
+   "Venue": "Gottlieb-Daimler Stadion, Stuttgart (GER)",
+   "Date": "15 AUG 1993",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 0.8,
+   "Competitor": "Jon DRUMMOND",
+   "DOB": "09 SEP 1968",
+   "Venue": "Indianapolis, IN (USA)",
+   "Date": "12 JUN 1997",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 0.2,
+   "Competitor": "Tim MONTGOMERY",
+   "DOB": "28 JAN 1975",
+   "Venue": "Indianapolis, IN (USA)",
+   "Date": "13 JUN 1997",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": -0.2,
+   "Competitor": "Seun OGUNKOYA",
+   "DOB": "28 DEC 1977",
+   "Venue": "SGJ, Johannesburg (RSA)",
+   "Date": "11 SEP 1998",
+   "Results Score": 1235
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 1,
+   "Competitor": "Tim HARDEN",
+   "DOB": "27 JAN 1974",
+   "Venue": "Luzern (SUI)",
+   "Date": "05 JUL 1999",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 2,
+   "Competitor": "Christophe LEMAITRE",
+   "DOB": "11 JUN 1990",
+   "Venue": "Albi (FRA)",
+   "Date": "29 JUL 2011",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": -0.8,
+   "Competitor": "Kemar BAILEY-COLE",
+   "DOB": "10 JAN 1992",
+   "Venue": "Olympic Stadium, London (GBR)",
+   "Date": "24 JUL 2015",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 0.9,
+   "Competitor": "Jak Ali HARVEY",
+   "DOB": "04 MAY 1989",
+   "Venue": "Erzurum (TUR)",
+   "Date": "12 JUN 2016",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 70,
+   "Mark": 9.92,
+   "WIND": 1.4,
+   "Competitor": "Udodi Chudi ONWUZURIKE",
+   "DOB": "29 JAN 2003",
+   "Venue": "Hornet Stadium - Sac St., Sacramento, CA (USA)",
+   "Date": "26 MAY 2023",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.4,
+   "Competitor": "Calvin SMITH",
+   "DOB": "08 JAN 1961",
+   "Venue": "Air Force Academy (USA)",
+   "Date": "03 JUL 1983",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": -0.6,
+   "Competitor": "Michael MARSH",
+   "DOB": "04 AUG 1967",
+   "Venue": "Walnut, CA (USA)",
+   "Date": "18 APR 1992",
+   "Results Score": 1234
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.8,
+   "Competitor": "Patrick JOHNSON",
+   "DOB": "26 SEP 1972",
+   "Venue": "Mito (JPN)",
+   "Date": "05 MAY 2003",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.1,
+   "Competitor": "Ivory WILLIAMS",
+   "DOB": "02 MAY 1985",
+   "Venue": "Rethymno (GRE)",
+   "Date": "20 JUL 2009",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.8,
+   "Competitor": "Kemarley BROWN",
+   "DOB": "20 JUL 1992",
+   "Venue": "Walnut, CA (USA)",
+   "Date": "17 MAY 2014",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.7,
+   "Competitor": "Clayton VAUGHN",
+   "DOB": "15 MAY 1992",
+   "Venue": "Mobile, AL (USA)",
+   "Date": "08 MAY 2015",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.9,
+   "Competitor": "Kim COLLINS",
+   "DOB": "05 APR 1976",
+   "Venue": "Bottrop (GER)",
+   "Date": "29 MAY 2016",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 0.8,
+   "Competitor": "Cameron BURRELL",
+   "DOB": "11 SEP 1994",
+   "Venue": "Eugene, OR (USA)",
+   "Date": "07 JUN 2017",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.6,
+   "Competitor": "Christopher BELCHER",
+   "DOB": "29 JAN 1994",
+   "Venue": "Eugene, OR (USA)",
+   "Date": "07 JUN 2017",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 0.8,
+   "Competitor": "Cravon GILLESPIE",
+   "DOB": "31 JUL 1996",
+   "Venue": "Austin, TX (USA)",
+   "Date": "07 JUN 2019",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 1.9,
+   "Competitor": "Arthur CISSÉ",
+   "DOB": "29 DEC 1996",
+   "Venue": "Leverkusen (GER)",
+   "Date": "24 JUL 2019",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": -1.2,
+   "Competitor": "Reece PRESCOD",
+   "DOB": "29 FEB 1996",
+   "Venue": "Mestský Stadion, Ostrava (CZE)",
+   "Date": "31 MAY 2022",
+   "Results Score": 1238
+ },
+ {
+   "Rank": 79,
+   "Mark": 9.93,
+   "WIND": 0.1,
+   "Competitor": "Eugene AMO-DADZIE",
+   "DOB": "22 JUN 1992",
+   "Venue": "Stadion Eggenberg, Graz (AUT)",
+   "Date": "16 JUN 2023",
+   "Results Score": 1231
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 0.2,
+   "Competitor": "Davidson EZINWA",
+   "DOB": "22 NOV 1971",
+   "Venue": "Linz (AUT)",
+   "Date": "04 JUL 1994",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": -0.2,
+   "Competitor": "Bernard WILLIAMS",
+   "DOB": "19 JAN 1978",
+   "Venue": "Commonwealth Stadium, Edmonton (CAN)",
+   "Date": "05 AUG 2001",
+   "Results Score": 1228
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 1.7,
+   "Competitor": "Diondre BATSON",
+   "DOB": "13 JUL 1992",
+   "Venue": "Hayward Field, Eugene, OR (USA)",
+   "Date": "25 JUN 2015",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 1.4,
+   "Competitor": "Andrew FISHER",
+   "DOB": "15 DEC 1991",
+   "Venue": "Moratalaz, Madrid (ESP)",
+   "Date": "11 JUL 2015",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 1,
+   "Competitor": "Ameer WEBB",
+   "DOB": "19 MAR 1991",
+   "Venue": "Stadio Olimpico, Roma (ITA)",
+   "Date": "02 JUN 2016",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 0.9,
+   "Competitor": "Wayde VAN NIEKERK",
+   "DOB": "15 JUL 1992",
+   "Venue": "Velenje (SLO)",
+   "Date": "20 JUN 2017",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 1.6,
+   "Competitor": "Jo'Vaughn MARTIN",
+   "DOB": "",
+   "Venue": "Percy Beard Track, Gainesville, FL (USA)",
+   "Date": "17 APR 2021",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 1.3,
+   "Competitor": "Gift LEOTLELA",
+   "DOB": "12 MAY 1998",
+   "Venue": "UJ Stadium, Johannesburg (RSA)",
+   "Date": "14 MAY 2021",
+   "Results Score": 1227
+ },
+ {
+   "Rank": 92,
+   "Mark": 9.94,
+   "WIND": 0.8,
+   "Competitor": "Joseph Paul AMOAH",
+   "DOB": "12 JAN 1997",
+   "Venue": "Hughes Stadium, Morgan St. Univ., Baltimore, MD (USA)",
+   "Date": "23 APR 2022",
+   "Results Score": 1227
+ }
+]
