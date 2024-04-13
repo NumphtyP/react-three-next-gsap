@@ -1,7 +1,8 @@
 'use client'
 
-import { useGLTF, Environment } from '@react-three/drei'
+import { useGLTF, Environment, ScrollControls, Scroll, useScroll } from '@react-three/drei'
 import { useFrame, Canvas } from '@react-three/fiber'
+import React, { Suspense } from 'react'
 
 const Lightning = (props) => {
   const { scene } = useGLTF('/models/lightning_event.glb')
@@ -40,9 +41,13 @@ const Neonate = (props) => {
 
 const Skeletons = (props) => {
   const { scene } = useGLTF('/models/primates_skeletons.glb')
+  const { width, height } = useThree((state) => state.viewport)
+  const scroll = useScroll()
+
+  useFrame(() => (scene.rotation.y = scroll.offset * Math.PI * 2))
 
   useFrame((state, delta) => (scene.rotation.y += delta))
-  return <primitive object={scene} {...props} />
+  return <primitive object={scene} rotation={[0, Math.PI / 1.5, 0]} {...props} />
 }
 
 export const HomoErectusMandible = () => (
@@ -85,7 +90,9 @@ export const PrimateSkeletons = () => (
     <fog attach='fog' args={['#f0f0f0', 0, 20]} />
     <ambientLight intensity={0.5} />
     <directionalLight intensity={2} position={[-5, 5, 5]} castShadow shadow-mapSize={2048} shadow-bias={-0.0001} />
-    <Skeletons position={[0, -1, 0]} rotation={[Math.PI / 2, 0, 0]} scale={0.01} />
+    <Suspense>
+      <Skeletons position={[0, -1, 0]} rotation={[Math.PI / 2, 0, 0]} scale={0.5} />
+    </Suspense>
   </Canvas>
 )
 

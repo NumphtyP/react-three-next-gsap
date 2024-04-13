@@ -2,6 +2,7 @@ import { Layout } from '@/components/dom/Layout'
 import '@/global.css'
 import SmoothScrolling from '@/components/SmoothScrolling'
 import { Inter } from 'next/font/google'
+import TransitionEffect from '@/components/dom/TransitionEffect'
 
 export const metadata = {
   title: 'Next.js + Three.js',
@@ -18,6 +19,7 @@ export default function RootLayout({ children }) {
       */}
       <head />
       <body className={inter.className}>
+        <TransitionEffect />
         {/* To avoid FOUT with styled-components wrap Layout with StyledComponentsRegistry https://beta.nextjs.org/docs/styling/css-in-js#styled-components */}
         <Layout>
           <SmoothScrolling>{children}</SmoothScrolling>

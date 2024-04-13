@@ -1,9 +1,8 @@
+'use client'
 import { useRef, useState, useEffect } from 'react'
 import { useThree } from '@react-three/fiber'
 import { Loader, Float, useGLTF, PresentationControls, Environment, Html } from '@react-three/drei'
 import { GlobalCanvas, ScrollScene, UseCanvas, SmoothScrollbar } from '@14islands/r3f-scroll-rig'
-
-import Logo from './Logo'
 
 // Need to start preloading assets to make sure Loader
 // is not removed before the canvas children mounts
@@ -36,26 +35,33 @@ export default function Conflgration() {
         {(bind) => (
           <article {...bind}>
             <header>
-              <a href='https://github.com/14islands/r3f-scroll-rig'>@14islands/r3f-scroll-rig</a>
+              <h1 className='mb-16 mt-0 font-sans font-extralight leading-4 tracking-normal' style={{ fontSize: 160 }}>
+                Heading 1
+              </h1>
             </header>
             <section>
-              <h1>&lt;ScrollScene/&gt; example with 3D model</h1>
+              <h1 className='mb-20 mt-0 font-sans text-xl font-bold leading-6' style={{ letterSpacing: '2.24px' }}>
+                &lt;ScrollScene/&gt; example with 3D model
+              </h1>
             </section>
             {isTouch && (
               <section>
-                <p style={{ color: 'orange' }}>
+                <p className='mb-16 mt-0 font-sans text-5xl leading-6 tracking-normal text-neutral-500'>
                   You are on a touch device which means the WebGL wont sync with the native scroll. Consider disabling
-                  ScrollScenes for touch devices, or experiment with the `smoothTouch` setting on Lenis.
+                  ScrollScenes for touch devices, or experiment with the `smoothTouch` setting on Lenis. Lorem Ipsum is
+                  simply dummy text of the printing and typesetting industry.
                 </p>
               </section>
             )}
             <WatchSection />
             <section>
-              Original Watch demo is from <a href='https://github.com/pmndrs/drei'>Drei</a> and created by{' '}
-              <a href='https://codesandbox.io/u/drcmda'>Paul Henschel</a>
+              <p className='my-0 font-sans text-4xl font-normal leading-6 tracking-normal text-neutral-500'>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+                scrambled it to make a type.
+              </p>
             </section>
             <WatchSection className='alternate' />
-            <Logo />
           </article>
         )}
       </SmoothScrollbar>
